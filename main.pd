@@ -1,4 +1,4 @@
-#N canvas 212 163 809 500 12;
+#N canvas 643 56 809 500 12;
 #N canvas 211 206 450 300 init 0;
 #X obj 39 16 loadbang;
 #X obj 39 40 t b b b b b;
@@ -36,4 +36,4 @@
 #X connect 9 0 8 0;
 #X connect 10 0 1 0;
 #X connect 11 0 8 0;
-#X connect 13 0 12 0;
+#X connect 13 0 12 1;
